@@ -1,12 +1,12 @@
 Larissa Java Developer Profile
 
-Welcome to my GitHub profile! I'm Larissa, a Java developer with a passion for creating efficient and robust software solutions. Here, you'll find some of my projects and contributions related to Java development.
+Welcome to my GitHub profile! I'm Larissa, a Java developer with a passion for creating efficient and robust software solutions. Here, you'll find some of my projects and contributions related to development.
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I frequently use in my Java development projects:
 
-- **Programming Language:** Java
+- **Programming Language:** Java, Python
 - **Frameworks:** Spring Boot, Hibernate
 - **Build Tools:** Maven, Gradle
 - **IDE:** IntelliJ IDEA, VsCode
