@@ -1,4 +1,4 @@
-Larissa Java Developer Profile
+Larissa Developer Profile
 
 Welcome to my GitHub profile! I'm Larissa, a Java developer with a passion for creating efficient and robust software solutions. Here, you'll find some of my projects and contributions related to development.
 
